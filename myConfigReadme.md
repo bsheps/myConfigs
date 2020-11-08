@@ -3,7 +3,7 @@
 https://www.atlassian.com/git/tutorials/dotfiles
 
 ## New install
-add alias to `.zsh` file
+add alias to `.zshrc` file
 
 ```sh
 alias myConfigs='/usr/bin/git --git-dir=$HOME/.myConfigs/ --work-tree=$HOME'
